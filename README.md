@@ -1,5 +1,5 @@
 # Hajaralii
-<h2 align="left">Hi 👋! My name is [Your Name] and I'm a First-Year Electrical Engineering Student</h2>
+<h2 align="left">Hi 👋! My name is Hajar and I'm a First-Year Electrical Engineering Student</h2>
 
 ###
 
