@@ -36,5 +36,5 @@ I am currently learning programming and electrical engineering fundamentals, wit
 <h3 align="left">📫 Connect with me</h3>
 
 <p align="left">
-  <a href="YOUR LINKEDIN LINK">LinkedIn</a>
+  <a href=(https://www.linkedin.com/in/hajar-ibrahim-6ab780336/)>LinkedIn</a>
 </p>
